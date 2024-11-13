@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+vf
+
+    
+}
+
+.header-container {
+    background-color: rgb(217, 217, 217);
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+}
+
+.logo-link {
+    color: #173A56;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.header-ul {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #22343D;
+}
+
+.link.sing-in {
+    width: 102px;
+    height: 43px;
+    font-weight: 600;
+    color: #173a56;
+    padding: 10px 25px;
+    border-radius: 10px;
+
+}
+
+.link.sing-up {
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    background: #086CF9;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.text-container {
+    width: 1440px;
+    height: 739px;
+    text-align: center;
+    background: url(./pexels-ivan-samkov-5676744\ 1.png) rgba(0,0,0,0.54) no-repeat;
+    background-blend-mode: overlay;
+
+}
+
+.hit {
+    padding-top: 199px;
+    padding-bottom: 24px;
+    color: #fff;
+    font-size: 50px;
+}
+
+.het {
+
+    color: #fff;
+    padding-bottom: 54px;
+    font-size: 20px;
+}
+
+.hut {
+    padding: 16px 30px;
+    background: #086CF9;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.guit-container {
+    display: flex;
+    margin-top: 128px;
+}
+
+.gut-container {
+    text-align: center;
+    margin-top: 128px;
+}
+
+.fig {
+    display: flex;
+    list-style: none;
+
+}
+
+.buy-container {
+    text-align: center;
+    margin-top: 128px;
+
+}
+
+.fim {
+    display: flex;
+
+}
+
+.gir-container {
+    margin-top: 128px;
+    text-align: center;
+}
+
+.gib {
+    display: flex;
+}
+
+.rig-container {
+    padding: 72px 286px;
+    display: flex;
+    background: rgba(211, 229, 254, 1);
+
+}
+
+.rib {
+    list-style: none;
+    display: flex;
+    gap: 160px;
+}
+
+.gibry {
+    width: Hug (89px)px;
+    height: Hug (103px)px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
+.dif-container{
+    margin-top: 128px;
+    text-align: center;
+}
+
+.rag-container{
+    margin-top: 128px;
+    display: flex;
+}
+
+.dil{
+  padding: 42px 144px;
+  display: flex;
+  gap: 24px;
+}
+
+.btn-1{
+    padding: 16px 30px;
+    background: #086CF9;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.h1{
+    font-size: 48px;
+}
+
+.p1{
+    font-size: 24px;
+}
